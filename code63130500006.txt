@@ -1,4 +1,4 @@
-Fistname: Kittiphum
+Firstname: Kittiphum
 Lastname: Uamthon
 Nickname: Max
 StudentID: 63130500006
